@@ -13,6 +13,7 @@ that doesn't work as expected.
 [![version](https://img.shields.io/badge/PostgreSQL-14-blue.svg)]()
 [![version](https://img.shields.io/badge/PostgreSQL-15-blue.svg)]()
 [![version](https://img.shields.io/badge/PostgreSQL-16-blue.svg)]()
+[![version](https://img.shields.io/badge/PostgreSQL-17-blue.svg)]()
 
 [![Lang](https://img.shields.io/badge/Language-Python3-green.svg)]()
 [![PostgreSQL](https://img.shields.io/badge/License-PostgreSQL-green.svg)]()
